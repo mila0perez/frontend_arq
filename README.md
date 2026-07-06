@@ -5,4 +5,4 @@
 >
 > 
 > **Actividades-iniciales-HTML**  
-Proyecto desarrollo de la pagina inicial de arquitectura en html-css-javascript
+Proyecto desarrollo forntend de la pagina inicial de arquitectura en html-css-javascript
