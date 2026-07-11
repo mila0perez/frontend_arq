@@ -5,4 +5,5 @@
 >
 > 
 > **Actividades-iniciales-HTML-CSS**  
-Proyecto desarrollo forntend de la pagina inicial de principales edificios arquitectonicos en html-css-javascript
+Proyecto desarrollo forntend de la pagina inicial de principales edificios arquitectonicos en Colombia
+>  html-css-javascript
