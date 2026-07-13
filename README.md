@@ -1,4 +1,4 @@
-# FRONTEND_ARQUI
+# FRONTEND_ARQUITECTURA
 # Pagina principal_HTML
 
 > *Tecnólogo en Anlisis y Desarrollo de Software*
