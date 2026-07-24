@@ -1,7 +1,7 @@
 # FRONTEND_ARQUI
 # Pagina principal_HTML_ARQ
 
-> *Tecnólogo en Anlisis y Desarrollo de Software*
+> *Tecnólogia en Anlisis y Desarrollo de Software*
 >
 > 
 > **Actividades-iniciales-HTML-CSS**  
