@@ -1,5 +1,5 @@
 # FRONTEND_ARQUI
-# Pagina principal_HTML_ARQUI
+# Pagina principal_HTML_ARCHITECT
 
 > *Tecnólogo en Anlisis y Desarrollo de Software*
 >
